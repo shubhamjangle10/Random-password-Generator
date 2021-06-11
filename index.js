@@ -13,7 +13,7 @@ function pass(){
         }
     }
     result=op.substring(0,12);
-    var text='(password suggestion)';
+    var text='(Click on suggested password)';
     document.getElementById('chars').innerHTML=result;
     document.getElementById('suggestion-text').innerHTML=text;
 
