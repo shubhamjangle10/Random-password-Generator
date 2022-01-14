@@ -106,7 +106,7 @@ button {
    border-radius: 5px;
    margin: 15px;
 
-   width: 12vw;
+   width: 150px;
 }
 button:hover {
    background-color: rgb(137, 219, 155);
